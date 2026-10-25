@@ -12,7 +12,7 @@
       {
         "page": "home",
         "block": 1,
-        "text": "here",
+        "text": " here",
         "original_href": "https://drive.google.com/file/d/1SyGyiBBXO06ppgNlDIx87v-fIoGhewQ1/view?usp=sharing",
         "url": "https://drive.google.com/file/d/1SyGyiBBXO06ppgNlDIx87v-fIoGhewQ1/view?usp=sharing",
         "local_path": "files/cv/DiNola_Alessandro_CV_2026.pdf",
@@ -33,7 +33,7 @@
       {
         "page": "home",
         "block": 1,
-        "text": "CEPR Working paper",
+        "text": " CEPR Working paper",
         "original_href": "https://drive.google.com/file/d/1gg-EsLtQeoOZeSr6T9DXTjJ1MKnAZ5iI/view",
         "url": "https://drive.google.com/file/d/1gg-EsLtQeoOZeSr6T9DXTjJ1MKnAZ5iI/view",
         "local_path": "files/research/DP21822.pdf",
@@ -42,7 +42,7 @@
       {
         "page": "research",
         "block": 1,
-        "text": "CEPR Working paper",
+        "text": " CEPR Working paper",
         "original_href": "https://drive.google.com/file/d/1gg-EsLtQeoOZeSr6T9DXTjJ1MKnAZ5iI/view",
         "url": "https://drive.google.com/file/d/1gg-EsLtQeoOZeSr6T9DXTjJ1MKnAZ5iI/view",
         "local_path": "files/research/DP21822.pdf",
@@ -63,7 +63,7 @@
       {
         "page": "home",
         "block": 1,
-        "text": "Household Search and the Equilibrium Gender Pay Ga",
+        "text": "Household Search and the Equilibrium Gender Pay Gap",
         "original_href": "https://drive.google.com/file/d/1tInwB4gIPVAoDwC554WKJBEnW3SWIMq9/view?usp=sharing",
         "url": "https://drive.google.com/file/d/1tInwB4gIPVAoDwC554WKJBEnW3SWIMq9/view?usp=sharing",
         "local_path": "files/research/DKLW_072026.pdf",
@@ -99,7 +99,8 @@
         "local_path": "files/research/minwage_gender.pdf",
         "status": "copied"
       }
-    ]
+    ],
+    "link_note": "Recovered from the original capture; no longer linked in the refreshed public source. Original occurrence retained for provenance."
   },
   {
     "source_id": "1CLQqiYNV6s30UWByltsfBxPRV86A5vwZ",
@@ -114,7 +115,7 @@
       {
         "page": "research",
         "block": 1,
-        "text": "draft",
+        "text": " Paper",
         "original_href": "https://drive.google.com/file/d/1CLQqiYNV6s30UWByltsfBxPRV86A5vwZ/view?usp=sharing",
         "url": "https://drive.google.com/file/d/1CLQqiYNV6s30UWByltsfBxPRV86A5vwZ/view?usp=sharing",
         "local_path": "files/research/DiNolaKocharkovSchollTkhirWang.pdf",
@@ -135,7 +136,7 @@
       {
         "page": "research",
         "block": 1,
-        "text": "CEPR working paper",
+        "text": " CEPR working paper",
         "original_href": "https://drive.google.com/file/d/1ab9-c4881vBDgeKNjKBl0XwymG96Bq_h/view?usp=share_link",
         "url": "https://drive.google.com/file/d/1ab9-c4881vBDgeKNjKBl0XwymG96Bq_h/view?usp=share_link",
         "local_path": "files/research/DiNolaKocharkovSchollTkhirWang_2023.pdf",
@@ -156,7 +157,7 @@
       {
         "page": "research",
         "block": 1,
-        "text": "Latest draft",
+        "text": "Paper",
         "original_href": "https://drive.google.com/file/d/15aBFrkIeiSIAF-oyZGqbBA9hDqSUJ6lI/view?usp=sharing",
         "url": "https://drive.google.com/file/d/15aBFrkIeiSIAF-oyZGqbBA9hDqSUJ6lI/view?usp=sharing",
         "local_path": "files/research/DKW_RED_Final_MainText.pdf",
@@ -177,7 +178,7 @@
       {
         "page": "research",
         "block": 1,
-        "text": "online appendix",
+        "text": " Online appendix",
         "original_href": "https://drive.google.com/file/d/1wv5Wgx-CWM36OBKbfNz-gUGqeCT_HFJg/view?usp=sharing",
         "url": "https://drive.google.com/file/d/1wv5Wgx-CWM36OBKbfNz-gUGqeCT_HFJg/view?usp=sharing",
         "local_path": "files/research/DKW_Online_Appendix.pdf",

@@ -2,7 +2,7 @@
   {
     "page": "home",
     "block": 1,
-    "text": "University of Birmingham",
+    "text": " University of Birmingham",
     "original_href": "https://www.birmingham.ac.uk/schools/business/departments/economics",
     "url": "https://www.birmingham.ac.uk/schools/business/departments/economics",
     "local_path": null,
@@ -11,7 +11,7 @@
   {
     "page": "home",
     "block": 1,
-    "text": "here",
+    "text": " here",
     "original_href": "https://drive.google.com/file/d/1SyGyiBBXO06ppgNlDIx87v-fIoGhewQ1/view?usp=sharing",
     "url": "https://drive.google.com/file/d/1SyGyiBBXO06ppgNlDIx87v-fIoGhewQ1/view?usp=sharing",
     "local_path": "files/cv/DiNola_Alessandro_CV_2026.pdf",
@@ -20,7 +20,7 @@
   {
     "page": "home",
     "block": 1,
-    "text": "https://github.com/aledinola",
+    "text": "GitHub profile",
     "original_href": "https://github.com/aledinola",
     "url": "https://github.com/aledinola",
     "local_path": null,
@@ -29,7 +29,7 @@
   {
     "page": "home",
     "block": 1,
-    "text": "https://www.birmingham.ac.uk/staff/profiles/business/di-nola-alessandro",
+    "text": "University of Birmingham profile",
     "original_href": "https://www.birmingham.ac.uk/staff/profiles/business/di-nola-alessandro",
     "url": "https://www.birmingham.ac.uk/staff/profiles/business/di-nola-alessandro",
     "local_path": null,
@@ -38,7 +38,7 @@
   {
     "page": "home",
     "block": 1,
-    "text": "https://ideas.repec.org/f/pdi453.html",
+    "text": "IDEAS/RePEc profile",
     "original_href": "https://ideas.repec.org/f/pdi453.html",
     "url": "https://ideas.repec.org/f/pdi453.html",
     "local_path": null,
@@ -47,7 +47,7 @@
   {
     "page": "home",
     "block": 1,
-    "text": "link",
+    "text": "Google Scholar profile",
     "original_href": "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AHoSzlXNnP3oYkHbzuU0IokBnr2e4LLr963ayF07KkoIP5A-A7U7sTq4QvNyD_Z38CijDIztuMZ3Fd0J1-RrXCg9zZS9&user=aIAL3sUAAAAJ",
     "url": "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AHoSzlXNnP3oYkHbzuU0IokBnr2e4LLr963ayF07KkoIP5A-A7U7sTq4QvNyD_Z38CijDIztuMZ3Fd0J1-RrXCg9zZS9&user=aIAL3sUAAAAJ",
     "local_path": null,
@@ -56,7 +56,7 @@
   {
     "page": "home",
     "block": 1,
-    "text": "https://orcid.org/0000-0002-9373-9466",
+    "text": "ORCID profile",
     "original_href": "https://orcid.org/0000-0002-9373-9466",
     "url": "https://orcid.org/0000-0002-9373-9466",
     "local_path": null,
@@ -65,7 +65,7 @@
   {
     "page": "home",
     "block": 1,
-    "text": "CEPR Working paper",
+    "text": " CEPR Working paper",
     "original_href": "https://drive.google.com/file/d/1gg-EsLtQeoOZeSr6T9DXTjJ1MKnAZ5iI/view",
     "url": "https://drive.google.com/file/d/1gg-EsLtQeoOZeSr6T9DXTjJ1MKnAZ5iI/view",
     "local_path": "files/research/DP21822.pdf",
@@ -74,7 +74,16 @@
   {
     "page": "home",
     "block": 1,
-    "text": "Household Search and the Equilibrium Gender Pay Ga",
+    "text": " Gendered Effects of the Minimum Wage",
+    "original_href": "https://doi.org/10.1111/iere.70114",
+    "url": "https://doi.org/10.1111/iere.70114",
+    "local_path": null,
+    "status": "external_or_navigation_link_retained"
+  },
+  {
+    "page": "home",
+    "block": 1,
+    "text": "Household Search and the Equilibrium Gender Pay Gap",
     "original_href": "https://drive.google.com/file/d/1tInwB4gIPVAoDwC554WKJBEnW3SWIMq9/view?usp=sharing",
     "url": "https://drive.google.com/file/d/1tInwB4gIPVAoDwC554WKJBEnW3SWIMq9/view?usp=sharing",
     "local_path": "files/research/DKLW_072026.pdf",
@@ -83,7 +92,7 @@
   {
     "page": "home",
     "block": 1,
-    "text": "NBER SI 2026",
+    "text": " NBER SI 2026",
     "original_href": "https://www.nber.org/conferences/si-2026-micro-and-macro-perspectives-aggregate-labor-market",
     "url": "https://www.nber.org/conferences/si-2026-micro-and-macro-perspectives-aggregate-labor-market",
     "local_path": null,
@@ -92,25 +101,16 @@
   {
     "page": "research",
     "block": 1,
-    "text": "",
-    "original_href": "#h.2xv53q7vb1bk",
-    "url": "https://sites.google.com/site/alessandrodinolaphd/research#h.2xv53q7vb1bk",
+    "text": " Gendered Effects of the Minimum Wage",
+    "original_href": "https://doi.org/10.1111/iere.70114",
+    "url": "https://doi.org/10.1111/iere.70114",
     "local_path": null,
     "status": "external_or_navigation_link_retained"
   },
   {
     "page": "research",
     "block": 1,
-    "text": "Gendered Effects of the Minimum Wage",
-    "original_href": "https://drive.google.com/file/d/1cvM1Xy_PzBGip0ecx1WAoT1lGQViBaH2/view",
-    "url": "https://drive.google.com/file/d/1cvM1Xy_PzBGip0ecx1WAoT1lGQViBaH2/view",
-    "local_path": "files/research/minwage_gender.pdf",
-    "status": "copied"
-  },
-  {
-    "page": "research",
-    "block": 1,
-    "text": "Haomin Wang",
+    "text": " Haomin Wang",
     "original_href": "https://sites.google.com/site/haominwng/home",
     "url": "https://sites.google.com/site/haominwng/home",
     "local_path": null,
@@ -119,7 +119,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "draft",
+    "text": " Paper",
     "original_href": "https://drive.google.com/file/d/1CLQqiYNV6s30UWByltsfBxPRV86A5vwZ/view?usp=sharing",
     "url": "https://drive.google.com/file/d/1CLQqiYNV6s30UWByltsfBxPRV86A5vwZ/view?usp=sharing",
     "local_path": "files/research/DiNolaKocharkovSchollTkhirWang.pdf",
@@ -128,7 +128,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "CEPR working paper",
+    "text": " CEPR working paper",
     "original_href": "https://drive.google.com/file/d/1ab9-c4881vBDgeKNjKBl0XwymG96Bq_h/view?usp=share_link",
     "url": "https://drive.google.com/file/d/1ab9-c4881vBDgeKNjKBl0XwymG96Bq_h/view?usp=share_link",
     "local_path": "files/research/DiNolaKocharkovSchollTkhirWang_2023.pdf",
@@ -137,7 +137,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "G.Kocharkov",
+    "text": " Georgi Kocharkov",
     "original_href": "https://georgikocharkov.de/",
     "url": "https://georgikocharkov.de/",
     "local_path": null,
@@ -146,7 +146,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "A.Scholl",
+    "text": " Almuth Scholl",
     "original_href": "https://www.wiwi.uni-konstanz.de/scholl/team/prof-dr-almuth-scholl/",
     "url": "https://www.wiwi.uni-konstanz.de/scholl/team/prof-dr-almuth-scholl/",
     "local_path": null,
@@ -155,7 +155,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "Haomin Wang",
+    "text": " Haomin Wang",
     "original_href": "https://sites.google.com/site/haominwng/",
     "url": "https://sites.google.com/site/haominwng/",
     "local_path": null,
@@ -164,7 +164,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "https://onlinelibrary.wiley.com/doi/10.1111/iere.12758",
+    "text": " Published article",
     "original_href": "https://onlinelibrary.wiley.com/doi/10.1111/iere.12758",
     "url": "https://onlinelibrary.wiley.com/doi/10.1111/iere.12758",
     "local_path": null,
@@ -173,7 +173,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "SUERF policy brief",
+    "text": " SUERF policy brief",
     "original_href": "https://www.suerf.org/publications/suerf-policy-notes-and-briefs/taxation-of-top-incomes-and-tax-avoidance/",
     "url": "https://www.suerf.org/publications/suerf-policy-notes-and-briefs/taxation-of-top-incomes-and-tax-avoidance/",
     "local_path": null,
@@ -182,7 +182,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "link",
+    "text": " Replication code",
     "original_href": "https://github.com/aledinola/Taxation-of-Top-Incomes-and-Tax-Avoidance",
     "url": "https://github.com/aledinola/Taxation-of-Top-Incomes-and-Tax-Avoidance",
     "local_path": null,
@@ -200,7 +200,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "Georgi Kocharkov",
+    "text": " Georgi Kocharkov",
     "original_href": "https://georgikocharkov.de/",
     "url": "https://georgikocharkov.de/",
     "local_path": null,
@@ -209,7 +209,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "Haomin Wang",
+    "text": " Haomin Wang",
     "original_href": "https://sites.google.com/site/haominwng/home",
     "url": "https://sites.google.com/site/haominwng/home",
     "local_path": null,
@@ -218,7 +218,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "https://doi.org/10.1017/S1365100524000270",
+    "text": " Published article",
     "original_href": "https://doi.org/10.1017/S1365100524000270",
     "url": "https://doi.org/10.1017/S1365100524000270",
     "local_path": null,
@@ -227,7 +227,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "Latest draft",
+    "text": "Paper",
     "original_href": "https://drive.google.com/file/d/15aBFrkIeiSIAF-oyZGqbBA9hDqSUJ6lI/view?usp=sharing",
     "url": "https://drive.google.com/file/d/15aBFrkIeiSIAF-oyZGqbBA9hDqSUJ6lI/view?usp=sharing",
     "local_path": "files/research/DKW_RED_Final_MainText.pdf",
@@ -236,7 +236,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "online appendix",
+    "text": " Online appendix",
     "original_href": "https://drive.google.com/file/d/1wv5Wgx-CWM36OBKbfNz-gUGqeCT_HFJg/view?usp=sharing",
     "url": "https://drive.google.com/file/d/1wv5Wgx-CWM36OBKbfNz-gUGqeCT_HFJg/view?usp=sharing",
     "local_path": "files/research/DKW_Online_Appendix.pdf",
@@ -245,7 +245,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "CESifo working paper",
+    "text": " CESifo working paper",
     "original_href": "https://www.cesifo.org/en/publikationen/2022/working-paper/rescue-policies-small-businesses-covid-19-recession",
     "url": "https://www.cesifo.org/en/publikationen/2022/working-paper/rescue-policies-small-businesses-covid-19-recession",
     "local_path": null,
@@ -263,7 +263,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "Leo Kaas",
+    "text": " Leo Kaas",
     "original_href": "https://sites.google.com/site/leojkaas/",
     "url": "https://sites.google.com/site/leojkaas/",
     "local_path": null,
@@ -272,7 +272,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "Haomin Wang",
+    "text": " Haomin Wang",
     "original_href": "https://sites.google.com/site/haominwng/",
     "url": "https://sites.google.com/site/haominwng/",
     "local_path": null,
@@ -281,7 +281,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "https://doi.org/10.1016/j.red.2023.06.003",
+    "text": " Published article",
     "original_href": "https://doi.org/10.1016/j.red.2023.06.003",
     "url": "https://doi.org/10.1016/j.red.2023.06.003",
     "local_path": null,
@@ -290,7 +290,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "link",
+    "text": "Published article",
     "original_href": "https://www.sciencedirect.com/science/article/pii/S1094202523000224",
     "url": "https://www.sciencedirect.com/science/article/pii/S1094202523000224",
     "local_path": null,
@@ -299,7 +299,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "link",
+    "text": " Replication code",
     "original_href": "https://github.com/aledinola/Rescue-Policies-COVID",
     "url": "https://github.com/aledinola/Rescue-Policies-COVID",
     "local_path": null,
@@ -317,7 +317,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "older wp",
+    "text": "Earlier working paper",
     "original_href": "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhbGVzc2FuZHJvZGlub2xhcGhkfGd4OjcyYjZlYjY4MmEyNDQ0NWE",
     "url": "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhbGVzc2FuZHJvZGlub2xhcGhkfGd4OjcyYjZlYjY4MmEyNDQ0NWE",
     "local_path": null,
@@ -326,7 +326,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "published version",
+    "text": "Published article",
     "original_href": "https://www.sciencedirect.com/science/article/pii/S1094202520300910",
     "url": "https://www.sciencedirect.com/science/article/pii/S1094202520300910",
     "local_path": null,
@@ -335,16 +335,16 @@
   {
     "page": "research",
     "block": 1,
-    "text": "G. Kocharkov",
-    "original_href": "http://www.georgikocharkov.com/",
-    "url": "http://www.georgikocharkov.com/",
+    "text": " Georgi Kocharkov",
+    "original_href": "https://georgikocharkov.de/",
+    "url": "https://georgikocharkov.de/",
     "local_path": null,
     "status": "external_or_navigation_link_retained"
   },
   {
     "page": "research",
     "block": 1,
-    "text": "A. Scholl",
+    "text": " Almuth Scholl",
     "original_href": "https://www.wiwi.uni-konstanz.de/scholl/team/prof-dr-almuth-scholl/",
     "url": "https://www.wiwi.uni-konstanz.de/scholl/team/prof-dr-almuth-scholl/",
     "local_path": null,
@@ -353,7 +353,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "https://doi.org/10.1016/j.red.2020.09.009",
+    "text": " Published article",
     "original_href": "https://doi.org/10.1016/j.red.2020.09.009",
     "url": "https://doi.org/10.1016/j.red.2020.09.009",
     "local_path": null,
@@ -362,7 +362,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "link",
+    "text": " Replication code",
     "original_href": "https://github.com/aledinola/The-Aggregate-Consequences-of-Tax-Evasion",
     "url": "https://github.com/aledinola/The-Aggregate-Consequences-of-Tax-Evasion",
     "local_path": null,
@@ -380,16 +380,16 @@
   {
     "page": "research",
     "block": 1,
-    "text": "G. Kocharkov",
-    "original_href": "http://www.georgikocharkov.com/",
-    "url": "http://www.georgikocharkov.com/",
+    "text": " Georgi Kocharkov",
+    "original_href": "https://georgikocharkov.de/",
+    "url": "https://georgikocharkov.de/",
     "local_path": null,
     "status": "external_or_navigation_link_retained"
   },
   {
     "page": "research",
     "block": 1,
-    "text": "A. Vasilev",
+    "text": " Aleksandar Vasilev",
     "original_href": "https://sites.google.com/site/vasilevecon/",
     "url": "https://sites.google.com/site/vasilevecon/",
     "local_path": null,
@@ -398,7 +398,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "https://doi.org/10.1515/bejm-2018-0252",
+    "text": " Published article",
     "original_href": "https://doi.org/10.1515/bejm-2018-0252",
     "url": "https://doi.org/10.1515/bejm-2018-0252",
     "local_path": null,
@@ -407,7 +407,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "older wp",
+    "text": "Earlier working paper",
     "original_href": "https://ideas.repec.org/p/knz/dpteco/1704.html",
     "url": "https://ideas.repec.org/p/knz/dpteco/1704.html",
     "local_path": null,
@@ -416,18 +416,9 @@
   {
     "page": "research",
     "block": 1,
-    "text": "link",
+    "text": " Replication code",
     "original_href": "https://github.com/aledinola/Envelope-Wages-Hidden-Production-and-Labor-Productivity-2",
     "url": "https://github.com/aledinola/Envelope-Wages-Hidden-Production-and-Labor-Productivity-2",
-    "local_path": null,
-    "status": "external_or_navigation_link_retained"
-  },
-  {
-    "page": "research",
-    "block": 1,
-    "text": "",
-    "original_href": "#h.wvjowzlhgwza",
-    "url": "https://sites.google.com/site/alessandrodinolaphd/research#h.wvjowzlhgwza",
     "local_path": null,
     "status": "external_or_navigation_link_retained"
   },
@@ -443,7 +434,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "CEPR Working paper",
+    "text": " CEPR Working paper",
     "original_href": "https://drive.google.com/file/d/1gg-EsLtQeoOZeSr6T9DXTjJ1MKnAZ5iI/view",
     "url": "https://drive.google.com/file/d/1gg-EsLtQeoOZeSr6T9DXTjJ1MKnAZ5iI/view",
     "local_path": "files/research/DP21822.pdf",
@@ -461,7 +452,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "Liang Shi",
+    "text": " Liang Shi",
     "original_href": "https://sites.google.com/view/liangshi/home?authuser=0",
     "url": "https://sites.google.com/view/liangshi/home?authuser=0",
     "local_path": null,
@@ -488,7 +479,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "NEP - DGE",
+    "text": " NEP - DGE",
     "original_href": "https://nepdge.wordpress.com/2015/12/23/capital-misallocation-during-the-great-recession/",
     "url": "https://nepdge.wordpress.com/2015/12/23/capital-misallocation-during-the-great-recession/",
     "local_path": null,
@@ -506,7 +497,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "Slides",
+    "text": " Slides",
     "original_href": "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhbGVzc2FuZHJvZGlub2xhcGhkfGd4OjdlYmRjMmUzMDQ0NmQ5MWU",
     "url": "https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxhbGVzc2FuZHJvZGlub2xhcGhkfGd4OjdlYmRjMmUzMDQ0NmQ5MWU",
     "local_path": null,
@@ -515,7 +506,7 @@
   {
     "page": "research",
     "block": 1,
-    "text": "A. Ferrari",
+    "text": " Alessandro Ferrari",
     "original_href": "https://www.researchgate.net/profile/Alessandro_Ferrari4",
     "url": "https://www.researchgate.net/profile/Alessandro_Ferrari4",
     "local_path": null,
@@ -524,27 +515,9 @@
   {
     "page": "research",
     "block": 1,
-    "text": "",
-    "original_href": "#h.yvy67a10acdc",
-    "url": "https://sites.google.com/site/alessandrodinolaphd/research#h.yvy67a10acdc",
-    "local_path": null,
-    "status": "external_or_navigation_link_retained"
-  },
-  {
-    "page": "research",
-    "block": 1,
-    "text": "Robert Kirkby",
+    "text": " Robert Kirkby",
     "original_href": "https://www.robertdkirkby.com/",
     "url": "https://www.robertdkirkby.com/",
-    "local_path": null,
-    "status": "external_or_navigation_link_retained"
-  },
-  {
-    "page": "research",
-    "block": 1,
-    "text": "",
-    "original_href": "#h.xyyogza6glos",
-    "url": "https://sites.google.com/site/alessandrodinolaphd/research#h.xyyogza6glos",
     "local_path": null,
     "status": "external_or_navigation_link_retained"
   },

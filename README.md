@@ -9,7 +9,8 @@ and GitHub Pages has not been enabled. The recovered files are stored in this re
 - `files/cv/`: existing CV.
 - `files/research/`: exact research PDFs linked from the existing site.
 - `files/teaching/`: retrieved syllabi and teaching evaluation PDF.
-- `content/`: unchanged source text and source fragments for later layout work.
+- `content/`: captured source text and source fragments, including owner-approved
+  editorial corrections recorded in `migration/CONTENT-EDITS.md`.
 - `migration/INVENTORY.md`: results and unresolved links.
 - `migration/files.json`: source URLs, original names, sizes, and SHA-256 checksums.
 - `migration/links.csv` and `migration/links.json`: source-to-local link inventory.
@@ -19,7 +20,8 @@ and the homepage photo remain unresolved. See the inventory for details.
 
 ## Content preservation
 
-Keep the original biography, research descriptions, teaching descriptions, and
-documents unchanged. The existing Google Sites website is the authoritative source.
+Keep the biography, research descriptions, teaching descriptions, and documents
+unchanged unless Alessandro explicitly requests an edit. The existing Google Sites
+website is the authoritative source; record approved editorial changes separately.
 Do not update facts from chat history or other sources during the layout migration.
 Preserve third-party ownership and publication terms; no blanket license is assigned.

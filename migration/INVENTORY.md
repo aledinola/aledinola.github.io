@@ -4,7 +4,7 @@
 
 - 20 original PDFs copied: 1 CV, 13 research documents, and 6 teaching documents.
 - All copied files retain their downloaded bytes. File sizes were checked against provider metadata where supplied, PDF signatures and page counts were checked, and SHA-256 checksums were recorded.
-- Existing Home, Research, Teaching, and Contact wording is preserved in `content/`. Text characters are retained; block boundaries are represented by blank lines. `page-content.json` retains source fragments and link placement.
+- Home and Research include the owner-approved editorial corrections documented in `CONTENT-EDITS.md`. Teaching and Contact retain their captured wording. `page-content.json` retains content fragments and link placement; original captures remain available in Git history.
 - The Heterogeneous Agents Macro subpage returned no textual content blocks. It has not been assumed to contain recoverable material.
 - No website layout, index page, domain configuration, or deployment workflow has been created.
 - The recovered documents and preserved content are imported into `aledinola/aledinola.github.io`.
