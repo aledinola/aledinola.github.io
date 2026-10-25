@@ -40,3 +40,13 @@ add a custom domain, replace the original site, or publish a site without a late
 - Keep these instructions in the repository so every computer receives them when it
   clones or pulls the project. Saving a file locally does not synchronize it to GitHub;
   commit and push authorized completed changes, and report anything still local.
+
+## Required synchronization workflow
+
+- On Alessandro's current Windows computer, use C:\Users\aledi\Documents\GitHub\aledinola.github.io as the active local checkout. The earlier OneDrive\Documents\ChatGPT\Ale website copy is obsolete; do not use it for project edits.
+- Keep this local checkout synchronized with https://github.com/aledinola/aledinola.github.io (origin, main).
+- Before editing, inspect local changes and pull the latest GitHub changes with git pull --ff-only when safe. Bring changes made online or on another computer into the local checkout before continuing.
+- Whenever Codex updates project files, verify the changes, commit the task's changes, and push them to GitHub before reporting completion. Alessandro has authorized this synchronization as part of project work; do not ask for separate permission for each routine commit or push.
+- After pushing, verify that local HEAD matches the remote branch and report any remaining local changes. Synchronize direct GitHub edits back into the local checkout as part of the same task.
+- Preserve unrelated or uncommitted work. Never discard changes or force-push to synchronize. If changes diverge, reconcile them safely; report any conflict, authentication failure, or network problem that prevents synchronization, and do not claim success.
+- This is a workflow for active Codex tasks, not a background file-sync service. Ignored and untracked files are not uploaded automatically; inspect intended additions before committing.
