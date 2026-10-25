@@ -47,3 +47,20 @@ prepared content. The repository captures the published pages after these edits.
 The working owner session was the existing local Chrome profile. Its verified
 editor address is:
 https://sites.google.com/d/14pGbjCyhUggTf4etvGKo0n9O9TmBm977/edit
+
+## Research presentation update
+
+Later on 25 October 2026, Alessandro approved the Research presentation draft
+and explicitly approved its publication. The page now has four-section
+navigation, 12 collapsible Abstract groups, 10 collapsible Presentations groups,
+and one Discussion materials group, with consistent paper-entry formatting.
+All paper titles, abstracts, and coauthor lists retain their previous wording.
+Resource labels were standardized and two redundant ScienceDirect publisher
+links were removed in favor of their existing DOI links. Missing slides and
+unresolved legacy links were left unchanged.
+
+The public desktop and narrow mobile page were checked after publication,
+including expansion controls, navigation, text preservation, and intended link
+destinations. See [the presentation record](RESEARCH-DRAFT.md) for details.
+The published Research capture and current link inventory were refreshed; other
+captured pages, original PDF bytes, and import provenance were preserved.

@@ -1,11 +1,13 @@
-# Research page presentation draft — 25 October 2026
+# Research page presentation update — 25 October 2026
 
-Status: saved in the existing Google Sites editor; **not published**. Alessandro
-will review the completed draft before publication, as agreed in the approved plan.
+Status: **published on 25 October 2026**, after Alessandro reviewed and approved
+the saved draft. Google Sites' publication review listed only Research as updated;
+the editor confirmed that publication completed successfully.
 
 [Open the Research editor](https://sites.google.com/d/14pGbjCyhUggTf4etvGKo0n9O9TmBm977/p/0B_iVdwIvyeS7NmtDeUdEVDhjZlU/edit).
+[View the published Research page](https://sites.google.com/site/alessandrodinolaphd/research).
 
-## Draft changes
+## Published changes
 
 - Replaced the Research page's single large content box with native text blocks
   and collapsible groups on the same page.
@@ -20,7 +22,7 @@ will review the completed draft before publication, as agreed in the approved pl
   accents; removed surplus blank paragraphs. The site-wide theme was not changed.
 - Standardized resource labels and retained one existing DOI destination for each
   of the duplicated COVID rescue and tax-evasion publisher links. The redundant
-  ScienceDirect URLs were removed from this draft only.
+  ScienceDirect URLs were removed from the published Research page.
 - Kept missing slides and all unresolved legacy destinations and labels intact.
 - Retained existing dates; no unverified version dates were added.
 
@@ -38,17 +40,27 @@ will review the completed draft before publication, as agreed in the approved pl
   comparing every paper's, Work in Progress's, and Discussions' destination set
   against the source. All intended destinations matched, allowing only the two
   approved redundant publisher-link removals.
-- Google Sites' Preview opened blank in both large-screen and phone modes,
-  including after an editor reload. Public rendering, navigation behaviour, and
-  mobile appearance remain unverified. Editor screenshots support draft review.
+- Google Sites' editor Preview opened blank in both large-screen and phone modes.
+  After approval and publication, the actual public page was used for the final
+  desktop and mobile checks instead.
+- On the public page, all 12 Abstract controls, all 10 Presentations controls,
+  and Discussion materials expanded successfully. Abstracts and presentation
+  histories matched the original text; coauthor lists and intended link
+  destinations also matched.
+- Section navigation successfully scrolled to the Working Papers heading.
+- Tested the narrow mobile layout, including expanding an abstract: text and
+  links wrapped within the page, with no horizontal overflow. Restored the
+  browser's normal viewport after testing.
 
-## Publication and migration follow-up
+## Migration synchronization
 
-The live website and the published-source captures in `content/` have not been
-updated by this draft. No document bytes, original sharing settings, or recovery
-statuses were changed. GitHub Pages remains outside this task.
+The published Research capture now contains 39 native sections, including the
+complete bodies of all collapsed groups, and 62 link occurrences. Collapsible
+blocks record their label and initially closed state; section IDs retain source
+provenance. Text files retain paragraph boundaries. Current source-to-local link
+mappings use the new section indices.
 
-After Alessandro approves the draft, resolve or recheck the preview limitation,
-publish the authorized Research changes, verify the public page on desktop and
-mobile, and refresh the published-source captures and migration records. Then
-commit and push those changes under the repository synchronization workflow.
+Other captured pages are unchanged. All 20 original PDFs passed byte-count and
+SHA-256 verification. `files.json` retains the original import provenance; no
+document bytes, original sharing settings, or unresolved recovery statuses were
+changed. GitHub Pages was not enabled.

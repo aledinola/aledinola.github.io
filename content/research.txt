@@ -1,3 +1,220 @@
 Research
 
-PUBLISHED AND ACCEPTED PAPERSNEW Gendered Effects of the Minimum Wage, with Haomin Wang, International Economic Review, Early View (2026). Published online 25 September 2026.Women work disproportionately in low-hours jobs, which pay lower wages and are more exposed to minimum-wage policies. We estimate an equilibrium search model with worker and firm heterogeneity, jobs differing in wages and hours, and imperfect compliance. Applied to Germany, the 8.50 € minimum wage reallocates women toward higher-hours jobs and reduces non-employment, although firm adjustments dampen this effect. Stronger enforcement amplifies the reallocation. Raising the minimum wage up to 14 € reduces gender gaps in wages and hours; at 11 €, changes in hours account for 44.8% of the reduction in the gender income gap.Presentations: University of Helsinki (2024), UB 2nd Macro Workshop 2023, Lisbon Macro workshop 2023, Universitat Autonoma de Barcelona UAB (May 2023), Universitat de Barcelona UB (May 2023), Goethe Frankfurt University (Nov 2021), University of Konstanz (Feb 2021)Taxation of Top Incomes and Tax Avoidance  Paper CEPR working paper with Georgi Kocharkov, Almuth Scholl, Anna-Mariia Tkhir and Haomin Wang, International Economic Review, 66(3), 983–1018 (2025). Published articleThis paper studies the aggregate and distributional effects of raising the top marginal income tax rate in the presence of tax avoidance. To this end, we develop a quantitative macroeconomic model with heterogeneous agents and occupational choice in which entrepreneurs can avoid taxes in two ways. On the extensive margin, entrepreneurs can choose the legal form of their business organization to reduce their tax burden. On the intensive margin, entrepreneurs can shift their income between different tax bases. In a quantitative application to the US economy, we find that tax avoidance weakens the distortionary effects of higher income taxes at the top but makes them ineffective at lowering inequality. Eliminating tax avoidance by implementing an equal tax treatment of entrepreneurs across all legal forms of business organization substantially increases tax revenue, aggregate output, and welfare.Media coverage: SUERF policy briefReplication package available on GitHub: Replication codePresentations:  SED (2023, Cartagena), Universitat de Barcelona (First UB Macro Workshop, 2022), Free University Berlin (2022), Goethe University Frankfurt (2022), University of Wisconsin-Madison (2022), ASSA 2022 Virtual Annual Meeting , Munich Center for the Economics of Ageing (MEA), CEF 2021: 27th International Conference on Computing in Economics and FinanceTeenage Childbearing and the Welfare State,  with Georgi Kocharkov, Jan Mellert and Haomin Wang, Macroeconomic Dynamics, 29, e31 (2025). Published articleTeenage childbearing is a common incident in developed countries. However, teenage births are much more likely in the United States than in any other industrialized country. Most of these births are delivered by female teenagers from low-income families. The hypothesis put forward here is that the welfare state (a set of redistributive institutions) has a significant influence on teenage childbearing behavior. We develop an economic theory of parental investments and the risky sexual behavior of teenagers. The model is estimated to fit stylized facts about income inequality, intergenerational mobility, and the sexual behavior of teenagers in the United States. The welfare state institutions are introduced via tax and public education expenditure functions derived from U.S. data. In a quantitative experiment, we impose Norwegian taxes and education spending in the economic environment. The Norwegian welfare state institutions go a long way in explaining the differences in teenage birth rates between the United States and Norway.Rescue Policies for Small Businesses during the COVID-19 Recession  (Paper, Online appendix) (Earlier CESifo working paper) (Twitter)with Leo Kaas and Haomin Wang,  Review of Economic Dynamics, 51, 579–603 (2023). Published article (Published article)While the COVID-19 pandemic had a large and asymmetric impact on firms, many countries quickly enacted massive business rescue programs which are specifically targeted to smaller firms. Little is known about the effects of such policies on business entry and exit, investment, factor reallocation, and macroeconomic outcomes. This paper builds a general equilibrium model with heterogeneous and financially constrained firms in order to evaluate the short- and long-term consequences of small firm rescue programs in a pandemic recession. We calibrate the stationary equilibrium and the pandemic shock to the U.S. economy, taking into account the factual Paycheck Protection Program (PPP) as a specific policy. We find that the policy has only a modest impact on aggregate output and employment because (i) jobs are saved predominately in the smallest firms that account for a minor share of employment and (ii) the grant reduces the reallocation of resources towards larger and less impacted firms. Much of the reallocation effects occur in the aftermath of the pandemic episode. By preventing inefficient liquidations, the policy dampens the long-term declines of aggregate consumption and of the real wage, thus delivering small welfare gains.Replication package available on GitHub: Replication code Presentations: SED 2022, Mannheim Workshop on Firm Heterogeneity and Macro (June 2022), CEF 2022, University of Barcelona (January 2022), Munich Center for the Economics of Ageing (January 2022), Winter Meeting of the Econometric Society (Dec 2021), IMF-TARC Conference (Dec 2021) The Aggregate Consequences of Tax Evasion, (Earlier working paper), (Published article) with Georgi Kocharkov, Almuth Scholl and Anna-Mariia Tkhir, Review of Economic Dynamics, 40, 198–227 (2021). Published articleThere is a sizeable overall tax gap in the U.S., albeit tax noncompliance differs sharply across income types. While only small percentages of wages and salaries are underreported, the estimated misreporting rate of self-employment business income is substantial. This paper studies how tax evasion in the self-employment sector affects aggregate outcomes and inequality. To this end, we develop a dynamic general equilibrium model with incomplete markets in which heterogeneous agents choose between being a worker and being self-employed. Self-employed agents may hide a share of their business income but are confronted with the probability of being detected by the tax authority. Our model replicates important quantitative features of U.S. data, in particular, the misreporting rate, wealth inequality, and the firm size distribution. Our quantitative findings suggest that tax evasion induces self-employed businesses to stay small. In the aggregate, tax evasion increases the size but decreases the productivity of the self-employment sector. Moreover, it increases aggregate savings and reduces wealth inequality. We show that tax revenues follow a Laffer curve in the size of the tax evasion penalty.Replication package available on GitHub: Replication codePresentations: University of Augsburg (November 2019), T2M (March 2019), VfS (September 2018), TU Dortmund (June 2018), Computations in Economics and Finance (June 2018), University of Konstanz (December 2017), Humboldt University Berlin (February 2018)Envelope Wages, Hidden Production and Labor Productivity with Georgi Kocharkov and Aleksandar Vasilev, The B.E. Journal of Macroeconomics (Advances), 19(2), 1–30 (2019). Published article (Earlier working paper)We evaluate the relative importance of aggregate labor productivity versus income taxes and social contributions for tax compliance in an economy with a large degree of informality. Empirical evidence points out that tax evasion in Europe happens through partially concealing wages and profits in formally registered enterprises. To this end, we build a model in which employer-employee pairs of heterogeneous productive capacities make joint decisions on the degree of tax evasion. The quantitative model is used to analyze the case of Bulgaria which has the largest informal economy in Europe and underwent a number of important tax reforms over the period 2000-2014, including the introduction of a flat income tax in 2008. The estimation strategy relies on matching the empirical series for the size of the informal economy and other aggregate outcomes for 2000-2014. Our counterfactual experiments show that the most important factor for the changing size of the informal economy is labor productivity, which accounts for more than 75% of the change. The variation in corporate income tax accounts for the rest. We find that the 2008 flat tax reform did not play any visible role in coping with informality.Replication package available on GitHub: Replication codePresentations: EEA Cologne (August 2018), ZEW Public Finance Conference (May 2017), 21st T2M Conference in Lisbon (March 2017), 2016 Marie Curie/IAPP Informal Economy Conference in Sofia, 2016 Summer School at Balkanski-Panitza Institute for Advanced Study (BPIAS) with Prof. Philippe Aghion, University of Konstanz (2016)WORKING PAPERSHousehold Search and the Equilibrium Gender Pay Gap  (with Leo Kaas, Chiara Lacava and Haomin Wang)We develop and calibrate an equilibrium labor market model to quantify the respective roles of labor supply and demand in generating gender gaps in employment, hours and wages over the life cycle. Households with and without children make joint labor market decisions, while firms offer wages anticipating the households' labor supply responses. Calibrating the model to German household data, we find that labor supply factors account for approximately 60 percent of the gender earnings gap, primarily reflecting gender differences in preferences for home hours. Firm-side forces are also quantitatively important: statistical discrimination and firms' gender wedges account for the remaining 40 percent. Our model further reveals that women sort into less productive firms, especially after childbirth, and that statistical discrimination emanates almost exclusively from the presence of joint taxation and intra-household risk sharing. Counterfactual reforms reducing parental-leave duration and the parental allowance increase fathers' leave take-up, but have only modest and short-lived effects on gender gaps.Presentations: Cardiff, Cornell, Tor Vergata, EUI, and at the 19th CSEF-IGIER Symposium, ESPE 2025, RES 2025, SED 2026, Barcelona Summer Forum 2025, SaM Annual Conference (Amsterdam), Albany (2025), Bristol (2025), Edinburgh (2025), Mannheim (2024, 2025), NBER SI 2026. Wealth Tax, Entrepreneurship, and the Legal Form of Business Organization  (with Almuth Scholl and Haomin Wang). CEPR Working paper (August 2026)This paper studies the effects of wealth taxation on efficiency, equity, and welfare in a heterogeneous-agent model with incomplete markets and endogenous occupational and legal-form choice. Entrepreneurs choose between operating as pass-through businesses and C-corporations. While C-corporations face less favorable tax treatment and higher operating costs, they benefit from easier access to external finance. The choice of legal form therefore shapes both the after-tax return to entrepreneurial investment and the severity of financial constraints. Calibrating the model to the U.S. economy, we show that the effects of wealth taxation depend crucially on the endogenous reallocation of entrepreneurs across legal forms. Revenue-neutral reforms that encourage entrepreneurs to switch toward pass-through businesses tighten financial constraints, exacerbate capital misallocation within the entrepreneurial sector, and amplify the efficiency costs of wealth taxation. By contrast, reforms that encourage entrepreneurs to organize as C-corporations relax financial constraints, improve capital allocation, and can more than offset the aggregate distortions induced by the wealth tax. We further show that the distributional and welfare effects crucially depend on the design of the wealth tax itself. While a flat wealth tax does not lower wealth inequality, it generates aggregate welfare gains under all revenue-recycling schemes we consider. By contrast, a progressive wealth tax reduces inequality but may generate aggregate welfare losses because it more strongly discourages entrepreneurial investment.Presentations: University of Southampton, Cardiff University, University of Konstanz, University of Umea, University of Trier, TU Dresden, Southwest Macro Workshop in Bath 2025, Annual meeting of the German Standing Field Committee on Macroeconomics in Heidelberg 2026.Efficient Parallelization of Nonlinear Macroeconomic Models: A MATLAB Executable Approach (November 2025) with Liang ShiSolving nonlinear macroeconomic models requires substantial programming effort and computational time, often constraining research and application. Using state-of-the-art sovereign default and heterogeneous-agent models, this paper evaluates how parallelized computation with MATLAB Executables (MEX) can alleviate these constraints. The hybrid approach translates MATLAB code into C (MEX-parfor) and CUDA (MEX-CUDA) executables that run seamlessly within the MATLAB environment. Compared with scripted parallel computation, MEX-parfor achieves speedups of up to 500-fold, while MEX-CUDA delivers gains exceeding 1,000-fold, comparable to other languages highly optimized for parallel execution. Moreover, the method can be readily deployed on cloud platforms such as Amazon Web Services (AWS), enabling solving high-dimensional nonlinear models with minimal additional development effort.Idiosyncratic firm risk, cash holdings and lumpy investment  This paper explores the hypothesis that the increase in firm-level risk is the main driver of the long-run increase in cash holdings by firms over the last decades. I document a novel stylized fact: the impact of firm level uncertainty on cash holdings is stronger for firms that belong to sectors with greater lumpiness in investment rates. To rationalize this empirical finding I build a dynamic model in which financially constrained firms face uncertainty about future revenues and are subject to fixed adjustment costs of investment. In the model the degree of investment lumpiness is key to amplifying the effects of volatility on cash holdings. The model is estimated on the Compustat data and used in a number of counterfactual experiments. I find that the increase in firm level volatility can explain almost 90 percent of the observed increase in cash holdings in the period 1980-2010. Furthermore, if non-convex investment frictions are absent, the increase in cash generated by higher uncertainty is reduced by half. Presentations: University of Barcelona (January 2019), University of Bath (March 2018), University of Pavia (March 2018), University of Konstanz (January 2018), ETH Zürich KOF Research seminar (June 2017), BPIAS 2017 Summer School of Economics (August 2017), Bocconi macro lunch workshop (June 2016)Capital Misallocation during the Great RecessionIn this paper I evaluate the contribution of financial frictions in explaining the drop in aggregate TFP through misallocation during the Great Recession. I build a quantitative model with heterogeneous establishments; with the help of the model I compute the counterfactual drop in misallocation: by how much would aggregate TFP have decreased if the credit crunch had been absent. I find that a "real recession" would have caused a drop of only 0.16 percent, as opposed to 1.04 percent found in the data; therefore financial frictions account for a significant part of the drop in aggregate TFP. The key mechanism is the following: the increase in the cost of external finance affects negatively the reallocation of productive inputs from low to high productivity firms, by dampening the growth of small, highly productive firms.Blog mentions: NEP - DGEPresentations: Computing in Economics and Finance (June 2018), EEA Lisbon 2017 (August 2017), RES Annual Conference, University of Sussex (March 2016), Workshop of the DFG- Priority Program 1578 (Cologne, March 2016), Bank of Chile (2015), DeNederlandscheBank (2015), University of Konstanz (2015), SAEe, Palma de Mallorca, Spain (2014), EDGE Jamboree, University of Copenhagen (2014), Ph.D. Seminar, Prof. A. Alesina, Bocconi University (2014,2015) Economic Growth and Wealth Inequality: the Role of Differential Fertility Slideswith Alessandro Ferrari (Bank of Italy)The intra-cohort inequality among the young increased in the last twenty years contributing to the overall increase in wealth inequality. This paper quantitatively assesses the role of parents' expectations and their subsequent fertility decision in explaining wealth inequality. To this end we solve the Barro-Becker model of fertility in a setup with aggregate and idiosyncratic shocks with incomplete markets à la Bewley. We show that a negative aggregate shock determines a fall of fertility and an increase in per-capita bequests which is greater in magnitude for the right tail of the wealth distribution thus determining an increase in wealth inequality. We calibrate the model to the U.S. economy and find that the slowdown in economic growth and the subsequent decline in fertility can explain around 40 percent of the increase in wealth inequality observed in the data. We then revisit the micro data (from SCF and PSID) and we find empirical evidence that strongly supports the model mechanism.Presentations:  Computing in Economics and Finance (June 2019), Workshop on Household Heterogeneity and Macroeconomics, ECB (May 2018), 22nd T2M Conference (March 2018, Paris), Bank of Italy (February 2018)WORK IN PROGRESS"Joint Taxation and Household Job-Search over the Business Cycle," with Robert Kirkby and Haomin Wang Housing over the Life Cycle: Expectations, Inheritance and Policy, joint with Christina Barcelo, Olympia Bover, Nezih Guner, Georgi Kocharkov and Ernesto VillanuevaIncome Taxation and Entrepreneurial Human Capital, joint with Almuth Scholl and Haomin WangDISCUSSIONSDaniel Belchior and Catarina Reis: "Fixed exchange rates and nominal rigidities in a small open economy"(at the 2017 T2M Conference in Lisbon)Giuliano Curatola and Ester Faia: "Divergent Risk-Attitudes and Endogenous Collateral Constraints"(at the 2017 SPP workshop in Konstanz)Eric Girardin and Moussa Fall: China's Capital Inflow Measures: an Assessment from Goods Pricing Strategies and the Forward Exchange Rate for the RMB(at the 2014 EDGE workshop in Copenhagen)Luisa Lambertini and Abhik Mukherjee: "Is Bank Capital Regulation Costly for Firms? - Evidence from Syndicated Loans"(at the 2016 Young Swiss Economist workshop in Zurich)F. Buera and B. Moll: "Aggregate implications of a Credit Crunch"(at the Macro Reading Group held by L.Sala and A.Trigari, Bocconi University)
+Published and Accepted Papers
+Working Papers
+Work in Progress
+Discussions
+
+Published and Accepted Papers
+
+NEW Gendered Effects of the Minimum Wage
+
+with Haomin Wang
+
+International Economic Review, Early View (2026). Published online 25 September 2026.
+
+Published article
+
+Abstract
+
+Women work disproportionately in low-hours jobs, which pay lower wages and are more exposed to minimum-wage policies. We estimate an equilibrium search model with worker and firm heterogeneity, jobs differing in wages and hours, and imperfect compliance. Applied to Germany, the 8.50 € minimum wage reallocates women toward higher-hours jobs and reduces non-employment, although firm adjustments dampen this effect. Stronger enforcement amplifies the reallocation. Raising the minimum wage up to 14 € reduces gender gaps in wages and hours; at 11 €, changes in hours account for 44.8% of the reduction in the gender income gap.
+
+Presentations
+
+University of Helsinki (2024), UB 2nd Macro Workshop 2023, Lisbon Macro workshop 2023, Universitat Autonoma de Barcelona UAB (May 2023), Universitat de Barcelona UB (May 2023), Goethe Frankfurt University (Nov 2021), University of Konstanz (Feb 2021)
+
+Taxation of Top Incomes and Tax Avoidance
+
+with Georgi Kocharkov, Almuth Scholl, Anna-Mariia Tkhir and Haomin Wang
+
+International Economic Review, 66(3), 983–1018 (2025).
+
+Paper PDF  |  Published article  |  CEPR working paper  |  Replication code  |  SUERF policy brief
+
+Abstract
+
+This paper studies the aggregate and distributional effects of raising the top marginal income tax rate in the presence of tax avoidance. To this end, we develop a quantitative macroeconomic model with heterogeneous agents and occupational choice in which entrepreneurs can avoid taxes in two ways. On the extensive margin, entrepreneurs can choose the legal form of their business organization to reduce their tax burden. On the intensive margin, entrepreneurs can shift their income between different tax bases. In a quantitative application to the US economy, we find that tax avoidance weakens the distortionary effects of higher income taxes at the top but makes them ineffective at lowering inequality. Eliminating tax avoidance by implementing an equal tax treatment of entrepreneurs across all legal forms of business organization substantially increases tax revenue, aggregate output, and welfare.
+
+Presentations
+
+SED (2023, Cartagena), Universitat de Barcelona (First UB Macro Workshop, 2022), Free University Berlin (2022), Goethe University Frankfurt (2022), University of Wisconsin-Madison (2022), ASSA 2022 Virtual Annual Meeting , Munich Center for the Economics of Ageing (MEA), CEF 2021: 27th International Conference on Computing in Economics and Finance
+
+Teenage Childbearing and the Welfare State
+
+with Georgi Kocharkov, Jan Mellert and Haomin Wang
+
+Macroeconomic Dynamics, 29, e31 (2025).
+
+Published article
+
+Abstract
+
+Teenage childbearing is a common incident in developed countries. However, teenage births are much more likely in the United States than in any other industrialized country. Most of these births are delivered by female teenagers from low-income families. The hypothesis put forward here is that the welfare state (a set of redistributive institutions) has a significant influence on teenage childbearing behavior. We develop an economic theory of parental investments and the risky sexual behavior of teenagers. The model is estimated to fit stylized facts about income inequality, intergenerational mobility, and the sexual behavior of teenagers in the United States. The welfare state institutions are introduced via tax and public education expenditure functions derived from U.S. data. In a quantitative experiment, we impose Norwegian taxes and education spending in the economic environment. The Norwegian welfare state institutions go a long way in explaining the differences in teenage birth rates between the United States and Norway.
+
+Rescue Policies for Small Businesses during the COVID-19 Recession
+
+with Leo Kaas and Haomin Wang
+
+Review of Economic Dynamics, 51, 579–603 (2023).
+
+Paper PDF  |  Published article  |  Online appendix  |  Earlier CESifo working paper  |  Replication code  |  Twitter
+
+Abstract
+
+While the COVID-19 pandemic had a large and asymmetric impact on firms, many countries quickly enacted massive business rescue programs which are specifically targeted to smaller firms. Little is known about the effects of such policies on business entry and exit, investment, factor reallocation, and macroeconomic outcomes. This paper builds a general equilibrium model with heterogeneous and financially constrained firms in order to evaluate the short- and long-term consequences of small firm rescue programs in a pandemic recession. We calibrate the stationary equilibrium and the pandemic shock to the U.S. economy, taking into account the factual Paycheck Protection Program (PPP) as a specific policy. We find that the policy has only a modest impact on aggregate output and employment because (i) jobs are saved predominately in the smallest firms that account for a minor share of employment and (ii) the grant reduces the reallocation of resources towards larger and less impacted firms. Much of the reallocation effects occur in the aftermath of the pandemic episode. By preventing inefficient liquidations, the policy dampens the long-term declines of aggregate consumption and of the real wage, thus delivering small welfare gains.
+
+Presentations
+
+SED 2022, Mannheim Workshop on Firm Heterogeneity and Macro (June 2022), CEF 2022, University of Barcelona (January 2022), Munich Center for the Economics of Ageing (January 2022), Winter Meeting of the Econometric Society (Dec 2021), IMF-TARC Conference (Dec 2021) 
+
+The Aggregate Consequences of Tax Evasion
+
+with Georgi Kocharkov, Almuth Scholl and Anna-Mariia Tkhir
+
+Review of Economic Dynamics, 40, 198–227 (2021).
+
+Paper PDF  |  Published article  |  Earlier working paper  |  Replication code
+
+Abstract
+
+There is a sizeable overall tax gap in the U.S., albeit tax noncompliance differs sharply across income types. While only small percentages of wages and salaries are underreported, the estimated misreporting rate of self-employment business income is substantial. This paper studies how tax evasion in the self-employment sector affects aggregate outcomes and inequality. To this end, we develop a dynamic general equilibrium model with incomplete markets in which heterogeneous agents choose between being a worker and being self-employed. Self-employed agents may hide a share of their business income but are confronted with the probability of being detected by the tax authority. Our model replicates important quantitative features of U.S. data, in particular, the misreporting rate, wealth inequality, and the firm size distribution. Our quantitative findings suggest that tax evasion induces self-employed businesses to stay small. In the aggregate, tax evasion increases the size but decreases the productivity of the self-employment sector. Moreover, it increases aggregate savings and reduces wealth inequality. We show that tax revenues follow a Laffer curve in the size of the tax evasion penalty.
+
+Presentations
+
+University of Augsburg (November 2019), T2M (March 2019), VfS (September 2018), TU Dortmund (June 2018), Computations in Economics and Finance (June 2018), University of Konstanz (December 2017), Humboldt University Berlin (February 2018)
+
+Envelope Wages, Hidden Production and Labor Productivity
+
+with Georgi Kocharkov and Aleksandar Vasilev
+
+The B.E. Journal of Macroeconomics (Advances), 19(2), 1–30 (2019).
+
+Paper PDF  |  Published article  |  Earlier working paper  |  Replication code
+
+Abstract
+
+We evaluate the relative importance of aggregate labor productivity versus income taxes and social contributions for tax compliance in an economy with a large degree of informality. Empirical evidence points out that tax evasion in Europe happens through partially concealing wages and profits in formally registered enterprises. To this end, we build a model in which employer-employee pairs of heterogeneous productive capacities make joint decisions on the degree of tax evasion. The quantitative model is used to analyze the case of Bulgaria which has the largest informal economy in Europe and underwent a number of important tax reforms over the period 2000-2014, including the introduction of a flat income tax in 2008. The estimation strategy relies on matching the empirical series for the size of the informal economy and other aggregate outcomes for 2000-2014. Our counterfactual experiments show that the most important factor for the changing size of the informal economy is labor productivity, which accounts for more than 75% of the change. The variation in corporate income tax accounts for the rest. We find that the 2008 flat tax reform did not play any visible role in coping with informality.
+
+Presentations
+
+EEA Cologne (August 2018), ZEW Public Finance Conference (May 2017), 21st T2M Conference in Lisbon (March 2017), 2016 Marie Curie/IAPP Informal Economy Conference in Sofia, 2016 Summer School at Balkanski-Panitza Institute for Advanced Study (BPIAS) with Prof. Philippe Aghion, University of Konstanz (2016)
+
+Working Papers
+
+Household Search and the Equilibrium Gender Pay Gap
+
+(with Leo Kaas, Chiara Lacava and Haomin Wang)
+
+Paper PDF
+
+Abstract
+
+We develop and calibrate an equilibrium labor market model to quantify the respective roles of labor supply and demand in generating gender gaps in employment, hours and wages over the life cycle. Households with and without children make joint labor market decisions, while firms offer wages anticipating the households' labor supply responses. Calibrating the model to German household data, we find that labor supply factors account for approximately 60 percent of the gender earnings gap, primarily reflecting gender differences in preferences for home hours. Firm-side forces are also quantitatively important: statistical discrimination and firms' gender wedges account for the remaining 40 percent. Our model further reveals that women sort into less productive firms, especially after childbirth, and that statistical discrimination emanates almost exclusively from the presence of joint taxation and intra-household risk sharing. Counterfactual reforms reducing parental-leave duration and the parental allowance increase fathers' leave take-up, but have only modest and short-lived effects on gender gaps.
+
+Presentations
+
+Cardiff, Cornell, Tor Vergata, EUI, and at the 19th CSEF-IGIER Symposium, ESPE 2025, RES 2025, SED 2026, Barcelona Summer Forum 2025, SaM Annual Conference (Amsterdam), Albany (2025), Bristol (2025), Edinburgh (2025), Mannheim (2024, 2025), NBER SI 2026. 
+
+Wealth Tax, Entrepreneurship, and the Legal Form of Business Organization
+
+(with Almuth Scholl and Haomin Wang)
+
+August 2026
+
+CEPR working paper
+
+Abstract
+
+This paper studies the effects of wealth taxation on efficiency, equity, and welfare in a heterogeneous-agent model with incomplete markets and endogenous occupational and legal-form choice. Entrepreneurs choose between operating as pass-through businesses and C-corporations. While C-corporations face less favorable tax treatment and higher operating costs, they benefit from easier access to external finance. The choice of legal form therefore shapes both the after-tax return to entrepreneurial investment and the severity of financial constraints. Calibrating the model to the U.S. economy, we show that the effects of wealth taxation depend crucially on the endogenous reallocation of entrepreneurs across legal forms. Revenue-neutral reforms that encourage entrepreneurs to switch toward pass-through businesses tighten financial constraints, exacerbate capital misallocation within the entrepreneurial sector, and amplify the efficiency costs of wealth taxation. By contrast, reforms that encourage entrepreneurs to organize as C-corporations relax financial constraints, improve capital allocation, and can more than offset the aggregate distortions induced by the wealth tax. We further show that the distributional and welfare effects crucially depend on the design of the wealth tax itself. While a flat wealth tax does not lower wealth inequality, it generates aggregate welfare gains under all revenue-recycling schemes we consider. By contrast, a progressive wealth tax reduces inequality but may generate aggregate welfare losses because it more strongly discourages entrepreneurial investment.
+
+Presentations
+
+University of Southampton, Cardiff University, University of Konstanz, University of Umea, University of Trier, TU Dresden, Southwest Macro Workshop in Bath 2025, Annual meeting of the German Standing Field Committee on Macroeconomics in Heidelberg 2026.
+
+Efficient Parallelization of Nonlinear Macroeconomic Models: A MATLAB Executable Approach
+
+with Liang Shi
+
+November 2025
+
+Paper PDF
+
+Abstract
+
+Solving nonlinear macroeconomic models requires substantial programming effort and computational time, often constraining research and application. Using state-of-the-art sovereign default and heterogeneous-agent models, this paper evaluates how parallelized computation with MATLAB Executables (MEX) can alleviate these constraints. The hybrid approach translates MATLAB code into C (MEX-parfor) and CUDA (MEX-CUDA) executables that run seamlessly within the MATLAB environment. Compared with scripted parallel computation, MEX-parfor achieves speedups of up to 500-fold, while MEX-CUDA delivers gains exceeding 1,000-fold, comparable to other languages highly optimized for parallel execution. Moreover, the method can be readily deployed on cloud platforms such as Amazon Web Services (AWS), enabling solving high-dimensional nonlinear models with minimal additional development effort.
+
+Idiosyncratic firm risk, cash holdings and lumpy investment
+
+Paper PDF
+
+Abstract
+
+This paper explores the hypothesis that the increase in firm-level risk is the main driver of the long-run increase in cash holdings by firms over the last decades. I document a novel stylized fact: the impact of firm level uncertainty on cash holdings is stronger for firms that belong to sectors with greater lumpiness in investment rates. To rationalize this empirical finding I build a dynamic model in which financially constrained firms face uncertainty about future revenues and are subject to fixed adjustment costs of investment. In the model the degree of investment lumpiness is key to amplifying the effects of volatility on cash holdings. The model is estimated on the Compustat data and used in a number of counterfactual experiments. I find that the increase in firm level volatility can explain almost 90 percent of the observed increase in cash holdings in the period 1980-2010. Furthermore, if non-convex investment frictions are absent, the increase in cash generated by higher uncertainty is reduced by half. 
+
+Presentations
+
+University of Barcelona (January 2019), University of Bath (March 2018), University of Pavia (March 2018), University of Konstanz (January 2018), ETH Zürich KOF Research seminar (June 2017), BPIAS 2017 Summer School of Economics (August 2017), Bocconi macro lunch workshop (June 2016)
+
+Capital Misallocation during the Great Recession
+
+Paper PDF  |  NEP - DGE
+
+Abstract
+
+In this paper I evaluate the contribution of financial frictions in explaining the drop in aggregate TFP through misallocation during the Great Recession. I build a quantitative model with heterogeneous establishments; with the help of the model I compute the counterfactual drop in misallocation: by how much would aggregate TFP have decreased if the credit crunch had been absent. I find that a "real recession" would have caused a drop of only 0.16 percent, as opposed to 1.04 percent found in the data; therefore financial frictions account for a significant part of the drop in aggregate TFP. The key mechanism is the following: the increase in the cost of external finance affects negatively the reallocation of productive inputs from low to high productivity firms, by dampening the growth of small, highly productive firms.
+
+Presentations
+
+Computing in Economics and Finance (June 2018), EEA Lisbon 2017 (August 2017), RES Annual Conference, University of Sussex (March 2016), Workshop of the DFG- Priority Program 1578 (Cologne, March 2016), Bank of Chile (2015), DeNederlandscheBank (2015), University of Konstanz (2015), SAEe, Palma de Mallorca, Spain (2014), EDGE Jamboree, University of Copenhagen (2014), Ph.D. Seminar, Prof. A. Alesina, Bocconi University (2014,2015)
+
+Economic Growth and Wealth Inequality: the Role of Differential Fertility
+
+with Alessandro Ferrari (Bank of Italy)
+
+Paper PDF  |  Slides
+
+Abstract
+
+The intra-cohort inequality among the young increased in the last twenty years contributing to the overall increase in wealth inequality. This paper quantitatively assesses the role of parents' expectations and their subsequent fertility decision in explaining wealth inequality. To this end we solve the Barro-Becker model of fertility in a setup with aggregate and idiosyncratic shocks with incomplete markets à la Bewley. We show that a negative aggregate shock determines a fall of fertility and an increase in per-capita bequests which is greater in magnitude for the right tail of the wealth distribution thus determining an increase in wealth inequality. We calibrate the model to the U.S. economy and find that the slowdown in economic growth and the subsequent decline in fertility can explain around 40 percent of the increase in wealth inequality observed in the data. We then revisit the micro data (from SCF and PSID) and we find empirical evidence that strongly supports the model mechanism.
+
+Presentations
+
+Computing in Economics and Finance (June 2019), Workshop on Household Heterogeneity and Macroeconomics, ECB (May 2018), 22nd T2M Conference (March 2018, Paris), Bank of Italy (February 2018)
+
+Work in Progress
+
+"Joint Taxation and Household Job-Search over the Business Cycle,"
+
+with Robert Kirkby and Haomin Wang
+
+Housing over the Life Cycle: Expectations, Inheritance and Policy
+
+joint with Christina Barcelo, Olympia Bover, Nezih Guner, Georgi Kocharkov and Ernesto Villanueva
+
+Income Taxation and Entrepreneurial Human Capital
+
+joint with Almuth Scholl and Haomin Wang
+
+Discussions
+
+Discussion materials
+
+Daniel Belchior and Catarina Reis: "Fixed exchange rates and nominal rigidities in a small open economy"
+
+(at the 2017 T2M Conference in Lisbon)
+
+Giuliano Curatola and Ester Faia: "Divergent Risk-Attitudes and Endogenous Collateral Constraints"
+
+(at the 2017 SPP workshop in Konstanz)
+
+Eric Girardin and Moussa Fall: China's Capital Inflow Measures: an Assessment from Goods Pricing Strategies and the Forward Exchange Rate for the RMB
+
+(at the 2014 EDGE workshop in Copenhagen)
+
+Luisa Lambertini and Abhik Mukherjee: "Is Bank Capital Regulation Costly for Firms? - Evidence from Syndicated Loans"
+
+(at the 2016 Young Swiss Economist workshop in Zurich)
+
+F. Buera and B. Moll: "Aggregate implications of a Credit Crunch"
+
+(at the Macro Reading Group held by L.Sala and A.Trigari, Bocconi University)
